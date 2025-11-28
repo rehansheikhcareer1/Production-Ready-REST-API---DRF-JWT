@@ -1,0 +1,60 @@
+========================================
+GitHub Upload Commands - Ready to Use
+========================================
+
+STEP 1: Initialize Git
+----------------------
+git init
+
+
+STEP 2: Add All Files
+----------------------
+git add .
+
+
+STEP 3: First Commit
+--------------------
+git commit -m "Initial commit: Production-ready E-Commerce REST API with Django DRF, JWT Auth, Swagger Docs"
+
+
+STEP 4: Add Remote Repository
+------------------------------
+git remote add origin https://github.com/rehansheikhcareer1/ecommerce-rest-api.git
+
+
+STEP 5: Set Main Branch
+------------------------
+git branch -M main
+
+
+STEP 6: Push to GitHub
+-----------------------
+git push -u origin main
+
+
+========================================
+IMPORTANT NOTES:
+========================================
+
+1. Pehle GitHub pe repository banao:
+   - Name: ecommerce-rest-api
+   - Public
+   - DON'T initialize with README
+
+2. Jab push karoge to credentials maangega:
+   - Username: rehansheikhcareer1
+   - Password: Personal Access Token (NOT your GitHub password!)
+
+3. Personal Access Token kaise banaye:
+   - GitHub → Settings → Developer settings
+   - Personal access tokens → Tokens (classic)
+   - Generate new token
+   - Select: repo (full control)
+   - Copy token aur save karo
+
+========================================
+Repository URL:
+========================================
+https://github.com/rehansheikhcareer1/ecommerce-rest-api
+
+========================================

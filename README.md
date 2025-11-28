@@ -185,8 +185,9 @@ Building this project taught me:
 Found this interesting? Let's connect!
 
 - **GitHub:** [@rehansheikhcareer1](https://github.com/rehansheikhcareer1)
-- **LinkedIn:** [Add your LinkedIn]
-- **Email:** [Add your email]
+- **LinkedIn:** [linkedin.com/in/therehansheikh](https://www.linkedin.com/in/therehansheikh)
+- **Email:** rehan.sheikh.career1@gmail.com
+- **Mobile:** +91 7719984704
 
 ## 📝 License
 
